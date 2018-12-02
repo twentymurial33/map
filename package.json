@@ -1,0 +1,22 @@
+{
+  "name": "map",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twentymurial33/map.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/twentymurial33/map/issues"
+  },
+  "homepage": "https://github.com/twentymurial33/map#readme",
+  "dependencies": {
+    "geocoder": "^0.2.3"
+  }
+}
